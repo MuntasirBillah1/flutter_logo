@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-//! Todo: Add flutter logo
+//! Make circular logo
 
 void main(){
-  return runApp(FlutterLogo());
+  return runApp(FlutterLogo(colors:Colors.green));
 }
 
