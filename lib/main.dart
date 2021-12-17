@@ -4,5 +4,5 @@ import 'package:flutter/material.dart';
 
 void main() {
   return runApp(FlutterLogo());
-  return runApp(FlutterLogo(colors: Colors.red));
+  return runApp(FlutterLogo(colors: Colors.blue));
 }
